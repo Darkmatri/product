@@ -2,12 +2,6 @@
     "Products": [
          {
             "id": "0",
-            "name": "pro8",
-            "price": "800",
-            "AfterDiscount": "500",
-            "imageName": "cart8",
-            "isNew": "TRUE",
-            "rating": "5"
         },
         {
             "id": "1",
